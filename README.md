@@ -15,6 +15,7 @@ As an MFA student I wnated an app that lets me load images from a folder on my s
 ## Instructions
 1) Download the current release, unzip it, and launch DrawingPracticeTool.exe or clone the repo and build it with Unity.
 2) Click the gear icon to open settings and set your folder and anything else you want, they will be saved for next time :)
+3) Press the Play icon.
 
 # Features:
 - Automatic and Manual image cycling
