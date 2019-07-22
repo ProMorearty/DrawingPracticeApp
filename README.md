@@ -37,3 +37,6 @@ If you want to support my arty journey, I'm always in need of art supplies and c
 * Better scaling?
 * List recent folders?
 * Cross platform compatibility?
+
+### Known Issues
+* With time before start and time between images set, you must wait for both timers before the first image appears.
