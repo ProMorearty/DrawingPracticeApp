@@ -16,7 +16,7 @@ As an MFA student I wnated an app that lets me load images from a folder on my s
 If you want to support my arty journey, I'm always in need of art supplies and caffiene :heart_eyes: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ProMorearty)
 
 ## Instructions
-1) Download the current release, unzip it, and launch DrawingPracticeTool.exe or clone the repo and build it with Unity.
+1) Download the current release, unzip it, and launch DrawingPracticeTool.exe or clone the repo and build it with Unity. I generally keep it in 1600x900 windowed mode.
 2) Click the gear icon to open settings and set your folder and anything else you want, they will be saved for next time :smiley:
 3) Press the Play icon.
 
@@ -27,6 +27,8 @@ If you want to support my arty journey, I'm always in need of art supplies and c
 - Simple stats
 
 ![alt text](Settings.png "Settings")
+
+![alt text](Playing.PNG "Playing")
 
 ### TODO
 * Add image effects such as greyscale and blur
