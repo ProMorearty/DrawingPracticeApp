@@ -84,6 +84,15 @@ public class AppManager : MonoBehaviour
         SaveSaveData();
     }
 
+    public void MainPanelClicked()
+    {
+        //Dismiss settings panel if user clicks into empty space
+        if (settingsEnabled)
+        {
+            ToggleSettings();
+        }
+    }
+
     private void StartPractice()
     {
         if (practicing)
