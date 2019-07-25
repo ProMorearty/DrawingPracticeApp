@@ -3,7 +3,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using System;
 using System.IO;
-using UnityEngine.EventSystems;
 
 public class AppManager : MonoBehaviour
 {
