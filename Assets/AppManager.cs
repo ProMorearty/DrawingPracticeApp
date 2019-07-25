@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System;
 using System.IO;
+using UnityEngine.EventSystems;
 
 public class AppManager : MonoBehaviour
 {
@@ -82,6 +83,15 @@ public class AppManager : MonoBehaviour
     private void OnDisable()
     {
         SaveSaveData();
+    }
+
+    public void MainPanelClicked()
+    {
+        //Dismiss settings panel if user clicks into empty space
+        if (settingsEnabled)
+        {
+            ToggleSettings();
+        }
     }
 
     private void StartPractice()
