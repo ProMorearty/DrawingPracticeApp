@@ -34,7 +34,7 @@ If you want to support my arty journey, I'm always in need of art supplies and c
 * Add image effects such as greyscale and blur
 * Tooltips
 * Text error messages
-* Better scaling?
+* GPU scaling?
 * List recent folders?
 * Cross platform compatibility?
 
